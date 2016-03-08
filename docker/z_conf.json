@@ -1,0 +1,8 @@
+{
+    "server":false,
+    "advertise_addrs": {
+        "serf_lan" : "{ipv4}:8311",
+        "serf_wan" : "{ipv4}:8312",
+        "rpc" : "{ipv4}:8410"
+    }
+}
